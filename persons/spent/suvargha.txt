@@ -1,0 +1,6 @@
+Hotel - 4545 
+Tiffin - 190
+Lunch - 1850 
+Milkshake - 598
+Chat - 520 
+Tea - 50

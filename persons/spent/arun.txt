@@ -1,0 +1,6 @@
+Tiffin - 50
+Toto - 80
+Dinner - 805
+Water - 30
+Hotel - 865
+Up Bus - 705
